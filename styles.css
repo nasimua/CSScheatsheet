@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(213, 235, 255);
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: rgb(12, 23, 53);
+    padding: 10px;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+ol {
+    line-height: 25px;
+}
+
+
+.selectors {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 25px;
+}
+
+.css-properties {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 25px;
+}
+
+table {
+    border: 1px solid navy;
+    width: 650px;
+    margin: 0 auto;
+    margin-top: 35px;
+    line-height: 25px;
+}
+
+thead {
+    color: aliceblue;
+    background-color: rgb(12, 23, 53);
+}
+
+td {
+    border-top: 1px solid navy;
+  }
